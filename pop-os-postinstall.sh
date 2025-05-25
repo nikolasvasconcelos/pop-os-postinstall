@@ -78,10 +78,8 @@ PROGRAMAS_PARA_INSTALAR=(
   gparted
   timeshift
   gufw
-  synaptic
   solaar
   vlc
-  gnome-sushi 
   folder-color
   git
   wget
@@ -166,7 +164,6 @@ mkdir -p /home/$USER/TEMP
 mkdir -p /home/$USER/EDITAR 
 mkdir -p /home/$USER/Resolve
 mkdir -p /home/$USER/AppImage
-mkdir -p /home/$USER/Vídeos/'OBS Rec'
 
 # Adiciona atalhos ao Nautilus
 
